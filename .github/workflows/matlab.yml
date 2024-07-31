@@ -18,4 +18,4 @@ jobs:
 
     - name: Run MATLAB script
       run: |
-        matlab -batch "run('your_script.m')"
+        matlab -batch "run('Basement_Environment.m')"
